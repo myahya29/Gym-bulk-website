@@ -1350,6 +1350,9 @@
   .mt-16 {
     margin-top: calc(var(--spacing) * 16);
   }
+  .mt-auto {
+    margin-top: auto;
+  }
   .breadcrumbs {
     @layer daisyui.l1.l2.l3 {
       max-width: 100%;
